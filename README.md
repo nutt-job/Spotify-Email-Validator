@@ -1,8 +1,11 @@
 # Spotify-Email-Validator
 
-A Spotify Email validator by @nutt_job \n
-✅EMAILS FAST AND GIVES GOOD CPM\n
-✅SAVES THE DATA IN NEW FOLDER EACH TIME\n
-IF ANY ERROR COMES  REPORT HERE \n
+A Spotify Email validator by @nutt_job 
+
+✅EMAILS FAST AND GIVES GOOD CPM
+
+✅SAVES THE DATA IN NEW FOLDER EACH TIME
+
+IF ANY ERROR COMES  REPORT HERE 
 AT TG @nutt_job
 
