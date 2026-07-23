@@ -7,8 +7,10 @@ A Spotify Email validator by @nutt_job
 ✅SAVES THE DATA IN NEW FOLDER EACH TIME
 ----------------------------------------------
 FOR DOWNLOADING GOTO
+
 github.com/nutt-job/Spotify-Email-Validator/releases/
 ---------------------------------------------------
 IF ANY ERROR COMES  REPORT HERE 
+
 AT TG @nutt_job
 
